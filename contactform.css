@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 @font-face {
     font-family: neon;
-    src: url("Fonts/neon_80s/Neon.ttf");
+    src: url("neon_80s/Neon.ttf");
   }
 *{
   margin: 0;
